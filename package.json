@@ -1,0 +1,12 @@
+{
+  "name": "first-ai-agent",
+  "version": "1.0.0",
+  "description": "- An AI Agent refers to a system or a program that is capable of autonomously performing tasks on behalf of a user or another system by designing its workflow and utilizing available tools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
